@@ -1,0 +1,13 @@
+selectors allow us to select elements and apply style to them
+inline>internal>external
+
+1.elements selector
+2.class selector
+3.id selector
+4.child selector
+5.desecendant selector
+6.psudeo selector
+
+
+psudeo elements are used to style specific part of elements
+psudo classes are used to define specific state of element
